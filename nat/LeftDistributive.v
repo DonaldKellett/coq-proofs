@@ -7,7 +7,7 @@
   Add the load path containing the two theorems -
   feel free to edit the load path accordingly
 *)
-Add LoadPath "/path/to/folder/containing/PlusCommutesAndPlusAssociates".
+Add LoadPath "/path/to/PlusCommutesAndPlusAssociates".
 
 (* Require the two theorems mentioned above *)
 Require Export PlusCommutes.

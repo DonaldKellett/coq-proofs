@@ -10,7 +10,7 @@
   Add load path containing the files mentioned above -
   feel free to edit path as required
 *)
-Add LoadPath "/path/to/folder/containing/lemmas_and_theorems".
+Add LoadPath "/path/to/lemmas_and_theorems".
 
 (* Require the theorems and lemmas mentioned above *)
 Require Export PlusAssociates.
