@@ -6,7 +6,10 @@
   - plus_commutes in PlusCommutes.v
 *)
 
-(* Add load path containing required files *)
+(*
+  Add load path containing required files -
+  feel free to edit the path as required
+*)
 Add LoadPath "/path/to/lemmas_and_theorems".
 
 (* Require previously proven theorems *)
